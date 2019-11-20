@@ -1,0 +1,21 @@
+.name-form {
+    display : flex;
+    justify-content: center;
+    width : 100vw;
+    height : 4vh;
+}
+
+.text {
+    width: 20vw;
+}
+
+.text-area {
+    width: 20vw;
+    height: 10vh;
+    resize: none;
+}
+
+.button-div {
+    display: flex;
+    justify-content: flex-end
+}
